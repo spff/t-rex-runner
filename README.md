@@ -6,3 +6,5 @@ see the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 
 
 [go and enjoy! :smile: ](http://spff.github.io/t-rex-runner/)
+
+I use https://www.piskelapp.com/p/create/sprite/ to edit the sprites
